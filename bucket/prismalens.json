@@ -1,13 +1,13 @@
 {
-  "version": "0.5.3",
+  "version": "0.5.4",
   "description": "Investigates a firing alert with your coding agent and returns ordered evidence",
   "homepage": "https://prismalens.io",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/prismalens/prismalens/releases/download/v0.5.3/prismalens-0.5.3-win32-x64.zip",
-      "hash": "cb55790115c3496dacee14b4c8db54f271812712c7b6e87948bd52e2525045cd",
-      "extract_dir": "prismalens-0.5.3-win32-x64"
+      "url": "https://github.com/prismalens/prismalens/releases/download/v0.5.4/prismalens-0.5.4-win32-x64.zip",
+      "hash": "3c91697cff4ed161969c1d2de1dc8dc85354c675f81a69e84a6fbe2c06ac1880",
+      "extract_dir": "prismalens-0.5.4-win32-x64"
     }
   },
   "bin": [
